@@ -80,7 +80,7 @@ for (let i = 10; i > 0; i--) {
 For loops are especially helpful when we want to iterate through an array and do something to each element.
 
 ```javascript
-// Loop through and array of numbers and return each number multiplied by 3.
+// Loop through an array of numbers and return each number multiplied by 3.
 
 var arr = [5, 3, 2, 9]
 
